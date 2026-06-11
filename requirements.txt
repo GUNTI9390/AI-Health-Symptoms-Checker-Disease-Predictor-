@@ -1,0 +1,10 @@
+pyyaml
+seaborn
+joblib
+flask
+scikit-learn
+numpy
+pandas
+matplotlib
+gradio==3.50.0
+huggingface_hub==0.19.4
